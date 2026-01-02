@@ -81,5 +81,5 @@ macro_rules! run {
 }
 
 run!(year2025
-    day01
+    day01, day02
 );

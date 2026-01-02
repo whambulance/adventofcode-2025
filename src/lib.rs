@@ -15,5 +15,5 @@ library!(util "Utility modules to handle common recurring Advent of Code pattern
 );
 
 library!(year2025 "Finish the North Pole decorations in time for Christmas."
-    day01
+    day01, day02
 );
